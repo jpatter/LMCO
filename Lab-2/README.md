@@ -1,6 +1,6 @@
 # Machine Learning with Spark ML
 
-[<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/DSX.png" height="150"/>](http://datascience.ibm.com/) [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/dashdb-logo.png" height="150"/>](https://www.ibm.com/analytics/us/en/technology/cloud-data-services/dashdb/)
+[<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/DSX.png" height="150"/>](http://datascience.ibm.com/) [<img src="https://github.com/jpatter/LMCO/blob/master/Lab-1/images/DB2Warehouse.png" height="150"/>](https://www.ibm.com/analytics/us/en/technology/cloud-data-services/dashdb/)
 
 [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/jupyter.png" height="150"/>](http://jupyter.org/index.html) [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/spark.png" height="150"/>](http://spark.apache.org/)
 
@@ -31,7 +31,7 @@ Upon completing the lab, you will know how to:
 
 ### Step 4.  Give the notebook a name in the `Name` field, for example `Machine learning with SparkML` and optionally you can give it a description.
 
-### Step 5.  In the Notebook URL field, use `https://raw.githubusercontent.com/jpatter/Proof-of-Technology/master/DSX/Lab-2/Categorizing-Vetted-Data.ipynb`
+### Step 5.  In the Notebook URL field, use `https://github.com/jpatter/LMCO/blob/master/Lab-2/Categorizing-Vetted-Data.ipynb`
 
 <img src="https://raw.githubusercontent.com/jpatter/Proof-of-Technology/master/DSX/images/lab2-git.png"/>
 
