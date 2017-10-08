@@ -1,5 +1,5 @@
 ---
-title: "R Notebook showing how to connect to dashDB and do some simple exploration"
+title: "R Notebook showing how to connect to DB2 Warehouse and do some simple exploration"
 output: html_notebook
 ---
 
@@ -19,7 +19,7 @@ if(length(new.packages)) install.packages(new.packages)
 lapply(list.of.packages, function(x){library(x, character.only = TRUE, warn.conflicts = FALSE, quietly = TRUE)})
 ```
 
-Establish a connection to dashDB. You'll need to fill in details of your dashDB instance in the connection.R file (if you haven't done so already) the dashDB instance's hostname, user ID (uid) and password (pwd) as well as the name of the vetting table.
+Establish a connection to DB2 Warehouse. You'll need to fill in details of your dashDB instance in the connection.R file (if you haven't done so already) the DB2 Warehouse instance's hostname, user ID (uid) and password (pwd) as well as the name of the vetting table.
 
 ```{r}
 # Get connection details

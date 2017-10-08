@@ -1,6 +1,6 @@
 # connection.R
 
-# Fill in connection details about your dashDB instance below.
+# Fill in connection details about your DB2 Warehouse instance below.
 
 dsn.hostname <- 'HOSTNAME HERE'
 dsn.uid <- 'USER ID HERE'
