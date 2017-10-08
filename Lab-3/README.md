@@ -39,7 +39,7 @@ Upon completing the lab, you will know how to:
 > <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-select-git-project.png"/>
 
 ### Step 5.  Fill in git repository details using the URL `https://github.com/jpatter/LMCO` and press `Create Project`.
-> <img src="https://raw.githubusercontent.com/jpatter/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-git-project.png"/>
+> <img src="https://raw.githubusercontent.com/jpatter/LMCO/master/Lab-3/images/RStudio-git-project.png"/>
 
 After the project gets created, you'll see a screen similar to the following:
 
