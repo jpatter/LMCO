@@ -4,7 +4,7 @@
 
 [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/DSX.png" height="150"/>](http://datascience.ibm.com/) [<img src="https://github.com/jpatter/LMCO/blob/master/Lab-1/images/DB2Warehouse.png" height="150"/>](https://www.ibm.com/analytics/us/en/technology/cloud-data-services/dashdb/) [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/jupyter.png" height="150"/>](http://jupyter.org/index.html)
 
-In this lab, you will use IBM's Data Science Experience (DSX) to create a Jupyter IPython notebook to connect to and query a dashDB instance running in IBM Bluemix.
+In this lab, you will use IBM's Data Science Experience (DSX) to create a Jupyter IPython notebook to connect to and query a DB2 Warehouse instance running in IBM Bluemix.
 
 ## Objectives:
 
