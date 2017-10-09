@@ -29,7 +29,7 @@ Upon completing the lab, you will know how to:
 
 ### Step 3.  Create the notebook.
 
-> <img src="https://raw.githubusercontent.com/jpatter/Proof-of-Technology/master/DSX/Lab-1/images/DSX-create-notebook-from-url.png"/>
+> <img src="https://raw.githubusercontent.com/jpatter/LMCO/master/Lab-1/images/DSX-create-notebook-from-url.png"/>
 
 1. Click the `From URL` tab under `Create Notebook`.
 1. Give the notebook a name in the `Name` field, for example `Connect and Interact with DB2 Warehouse` and optionally you can give it a description.
@@ -38,4 +38,4 @@ Upon completing the lab, you will know how to:
 
 ### Step 4.  Follow the instructions in the notebook.
 
-> <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-1/images/DSX-edit-notebook-begin.png"/>
+> <img src="https://raw.githubusercontent.com/jpatter/LMCO/master/Lab-1/images/DSX-edit-notebook-begin.png"/>
