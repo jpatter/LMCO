@@ -1,10 +1,9 @@
 # app.R
 
 # Detect and install missing packages before loading them
-list.of.packages <- c('ibmdbR', 'shiny', 'shinythemes', 'plyr', 'DT', 'plotly')
-new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,'Package'])]
-if(length(new.packages)) install.packages(new.packages)
-lapply(list.of.packages, function(x){library(x, character.only = TRUE, warn.conflicts = FALSE, quietly = TRUE)})
+if (!require('pacman')) install.packages('pacman')
+# Install and load packages
+pacman::p_load('ibmdbR', 'shiny', 'shinythemes', 'plyr', 'DT', 'plotly')
 
 # Get connection details
 source('connection.R', local = TRUE)
