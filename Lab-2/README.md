@@ -4,7 +4,7 @@
 
 [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/jupyter.png" height="150"/>](http://jupyter.org/index.html) [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/spark.png" height="150"/>](http://spark.apache.org/)
 
-In this lab, you will use SparkML in IBM Data Science Experience to run generated travel data through a machine learning algorithm, automatically tune the algorithm, and load the data into a dashDB database.
+In this lab, you will use SparkML in IBM Data Science Experience to run generated travel data through a machine learning algorithm, automatically tune the algorithm, and load the data into a DB2 Warehouse database.
 
 ## Objectives:
 Upon completing the lab, you will know how to:
@@ -18,7 +18,7 @@ Upon completing the lab, you will know how to:
 6. Train the data.
 7. Show and evaluate machine learning results.
 8. Automatically tune machine learning results.
-9. Score data and load  into a new table in dashDB.
+9. Score data and load  into a new table in DB2 Warehouse.
 
 ## Instructions:
 
